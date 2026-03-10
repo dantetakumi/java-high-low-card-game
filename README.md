@@ -2,7 +2,7 @@
 
 - High-Low Showdown is an object-oriented console-based card game developed in Java. The player competes against a computer opponent by guessing whether the next card drawn from a shuffled deck will be higher or lower in value. The project emphasizes multi-class system design, inheritance and polymorphism, user input handling, and structured game logic.
 
-###Gameplay Features
+### Gameplay Features
 - Interactive console-based card guessing game
 - Player competes against a computer opponent
 - Full 52-card deck generation and shuffling
@@ -13,7 +13,7 @@
 - Clear and readable scoreboard display
 - Final results summary upon game completion
 
-Technical Concepts Demonstrated
+### Technical Concepts Demonstrated
 - Object-Oriented Programming (OOP) in Java
 - Multi-class program architecture
 - Inheritance and polymorphism through Player subclasses
@@ -24,11 +24,11 @@ Technical Concepts Demonstrated
 - Method parameters and return values
 - Encapsulation and modular code organization
 
-Technologies Used
+### Technologies Used
 - Java
 - BlueJ IDE
 
-Project Structure
+### Project Structure
 - Card System: Represents playing card rank, suit, and value
 - Deck System: Manages deck creation, shuffling, and card drawing
 - Player System: Stores player data including name, score, and streak
@@ -38,15 +38,15 @@ Project Structure
 - Scoreboard System: Tracks scores, streaks, and displays results
 - Main Controller: Initializes and starts the game
 
-What I Learned
+### What I Learned
 - This project strengthened my ability to design structured object-oriented programs using Java. I gained experience organizing multi-class systems, implementing inheritance and polymorphism, and managing program flow through loops and conditionals. I also improved my skills in user input validation, score tracking systems, and modular software design.
 
-Status
+### Status
 - Developed and completed as a fully playable console application demonstrating object-oriented system design and structured program architecture as part of coursework in Java programming.
 
-Video Walkthrough
+### Video Walkthrough
 - A full demonstration of gameplay and explanation of the program structure:
 [WATCH HERE] 
 
-Academic Context
+### Academic Context
 - This project was completed as part of a structured programming curriculum. In the video walkthrough, references to "Learning Outcomes (LOs)" correspond to core programming competencies such as object-oriented design, inheritance, polymorphism, arrays, loops, and input handling.
