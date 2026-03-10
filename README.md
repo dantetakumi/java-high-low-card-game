@@ -2,7 +2,7 @@
 
 - High-Low Showdown is an object-oriented console-based card game developed in Java. The player competes against a computer opponent by guessing whether the next card drawn from a shuffled deck will be higher or lower in value. The project emphasizes multi-class system design, inheritance and polymorphism, user input handling, and structured game logic.
 
-### Gameplay Features
+### Features
 - Interactive console-based card guessing game
 - Player competes against a computer opponent
 - Full 52-card deck generation and shuffling
@@ -13,7 +13,7 @@
 - Clear and readable scoreboard display
 - Final results summary upon game completion
 
-### Technical Concepts Demonstrated
+### Technical Concepts 
 - Object-Oriented Programming (OOP) in Java
 - Multi-class program architecture
 - Inheritance and polymorphism through Player subclasses
