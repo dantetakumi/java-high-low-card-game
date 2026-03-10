@@ -1,4 +1,4 @@
-High-Low Showdown - Java Console Card Game
+## High-Low Showdown - Java Console Card Game
 
 - High-Low Showdown is an object-oriented console-based card game developed in Java. The player competes against a computer opponent by guessing whether the next card drawn from a shuffled deck will be higher or lower in value. The project emphasizes multi-class system design, inheritance and polymorphism, user input handling, and structured game logic.
 
