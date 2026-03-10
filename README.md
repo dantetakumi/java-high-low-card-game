@@ -46,7 +46,7 @@
 
 ### Video Walkthrough
 - A full demonstration of gameplay and explanation of the program structure:
-[WATCH HERE](https://youtu.be/p1sFFmVi7Ko)
+[![WATCH HERE](https://img.youtube.com/vi/p1sFFmVi7Ko/0.jpg)](https://youtu.be/p1sFFmVi7Ko)
 
 ### Academic Context
 - This project was completed as part of a structured programming curriculum. In the video walkthrough, references to "Learning Outcomes (LOs)" correspond to core programming competencies such as object-oriented design, inheritance, polymorphism, arrays, loops, and input handling.
